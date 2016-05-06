@@ -66,6 +66,8 @@ npm run dist
 
 ---
 
+### Required Images/Icons
+
 Be sure to look at the package.json file to see the required icons/images for building/distributing.
 * build/icon.icns
 * build/loading.gif
