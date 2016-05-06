@@ -66,10 +66,12 @@ npm run dist
 
 ---
 
-icon.icns
-icon.ico
-loading.gif
-background.jpg
+Be sure to look at the package.json file to see the required icons/images for building/distributing.
+* build/icon.icns
+* build/loading.gif
+* build/background.jpg
+
+> For example, on OSX, you cannot create a DMG with electron-builder without having an image in your 'build' folder.
 
 ---
 
