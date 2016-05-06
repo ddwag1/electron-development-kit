@@ -80,7 +80,7 @@ Be sure to look at the package.json file to see the required icons/images for bu
 ### Learning More About Electron
 Be aware that some resources may be out of date, but the concepts remain the same.
 * [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
-* [Nativefier](https://github.com/jiahaog/nativefier) - Wrap any web page natively without even thinking, into multi-platform apps.
+* [Nativefier](https://github.com/jiahaog/nativefier) - "Wrap any web page natively without even thinking, into multi-platform apps."
 * [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - A great resource for tons of Electron projects.
-* [Nylas/N1](https://github.com/nylas/n1) - One of the more popular apps build with Electron.
+* [Nylas/N1](https://github.com/nylas/n1) - One of the more popular apps built with Electron.
 * [Electron.Rocks](http://electron.rocks) - A frequently updated blog on all things Electron.
