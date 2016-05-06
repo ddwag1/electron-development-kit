@@ -20,7 +20,7 @@ npm install electron-packager-interactive -g
 ##### This will install the following:
 - [electron-prebuilt](https://www.npmjs.com/package/electron-prebuilt) - "Install electron prebuilt binaries for the command-line use using NPM."
 - [electron-packager](https://www.npmjs.com/package/electron-packager) - "Package and distribute your Electron app with OS-specific bundles (.app, .exe etc) via JS or CLI."
-- [electron-packager-interactive](https://github.com/Urucas/electron-packager-interactive) - An interactive implementation of [electron-packager](https://www.npmjs.com/package/electron-packager).
+- [electron-packager-interactive](https://github.com/Urucas/electron-packager-interactive) - "An interactive implementation of [electron-packager](https://www.npmjs.com/package/electron-packager)."
 - [electron-builder](https://www.npmjs.com/package/electron-builder) - "Complete solution to build ready for distribution and 'auto update' Electron App installers."
   - [electron-builder Options](https://github.com/electron-userland/electron-builder/wiki/Options) - "Custom options for the installers."
 
