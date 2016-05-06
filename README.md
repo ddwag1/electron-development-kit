@@ -12,7 +12,7 @@ npm install
 npm install electron-packager -g
 # electron-packager is recommended globally.
 npm install electron-prebuilt -g
-# electron-prebuilt is required globally
+# electron-prebuilt is required globally.
 npm install electron-packager-interactive -g
 # electron-packager-interactive is required globally to use 'npm run build:options'
 ```
