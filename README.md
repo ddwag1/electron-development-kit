@@ -73,7 +73,7 @@ Be sure to look at the package.json file to see the required icons/images for bu
 * build/loading.gif
 * build/background.jpg
 
-> For example, on OSX, you cannot create a DMG with electron-builder without having an image in your 'build' folder.
+> For example, on OSX, you cannot create a DMG with electron-builder without having a background image stored in your 'build' folder.
 
 ---
 
