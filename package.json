@@ -14,9 +14,9 @@
   },
   "main": "main.js",
   "devDependencies": {
-    "electron-prebuilt": "*",
-    "electron-packager": "*",
-    "electron-builder": "*"
+    "electron-prebuilt": "~0.37.8",
+    "electron-packager": "~7.0.1",
+    "electron-builder": "^3.17.1"
   },
   "dependencies": {
     "jquery": "^2.2.3"
