@@ -3,8 +3,6 @@
 
 cat << "EOF"
 
-
-
                      ______
                    ,-~   _  ^^~-.,
                  ,^        -,____ ^,         ,/\/\/\,
@@ -31,4 +29,4 @@ cat << "EOF"
 
 EOF
 
-electron-packager ./ $1 --ignore=node_modules --all --out=dist --version="0.37.6" --overwrite
+electron-packager ./ $1 --ignore=node_modules --all --out=dist --version="1.0.1" --overwrite
